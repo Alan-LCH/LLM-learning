@@ -31,7 +31,7 @@ Data cleaning
 Lesson 3: Data Packaging
 ---
 
-![alt text](packing_data.png)
+![alt text](img/packing_data.png)
 
 Lesson 4: Preparing your model for training
 ---
@@ -54,10 +54,12 @@ In the next sections, you'll explore four different ways to initialize the weigh
 Lesson 5. Model training
 ---
 
-![alt text](trainning.png)
+![alt text](img/training.png)
 
 Lesson 6. Model evaluation
 ---
 
-![alt text](evaluation.png)
-![alt text](benchmark_datasets.png)
+![alt text](img/evaluation.png)
+![alt text](img/benchmark_datasets.png)
+
+[Back to directory](Training_Course.md)

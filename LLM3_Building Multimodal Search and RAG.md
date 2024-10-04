@@ -11,3 +11,5 @@ Learn how to build multimodal search and RAG systems.
 - Implement an end-to-end multimodal RAG system that analyzes retrieved multimodal context to generate insightful answers
 - Explore industry applications like visually analyzing invoices and flowcharts to output structured data.
 - Create a multi-vector recommender system that suggests relevant items by comparing their similarities across multiple modalities.
+
+[Back to directory](Training_Course.md)

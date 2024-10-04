@@ -11,3 +11,5 @@ explore key components of multi-agent systems:
 - Focus: Break down the tasks, goals, and tools and assign to multiple AI agents for better performance
 - Guardrails: Effectively handle errors, hallucinations, and infinite loops
 - Cooperation: Perform tasks in series, in parallel, and hierarchically
+
+[Back to directory](Training_Course.md)

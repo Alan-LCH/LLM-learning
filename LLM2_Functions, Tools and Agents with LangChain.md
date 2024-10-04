@@ -9,3 +9,5 @@ You’ll explore new advancements like ChatGPT’s function calling capability, 
 - Use LCEL, which simplifies the customization of chains and agents, to build applications;
 - Apply function calling to tasks like tagging and data extraction;
 - Understand tool selection and routing using LangChain tools and LLM function calling – and much more.
+
+[Back to directory](Training_Course.md)

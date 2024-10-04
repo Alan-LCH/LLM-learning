@@ -12,3 +12,40 @@ You will learn about the evolution of embedding models, from word to sentence em
 - Gain knowledge of the evolution of sentence embedding and understand how the dual encoder architecture was formed
 - Use a contrastive loss to train a dual encoder model, with one encoder trained for questions and another for the responses
 - Utilize separate encoders for question and answer in a RAG pipeline and see how it affects the retrieval compared to using a single encoder model.
+
+L2 - Contextualized Token Embeddings
+---
+
+![alt text](img/word-Embedding.png)
+![alt text](img/word-Embedding-loss.png)
+
+>Transformer
+![alt text](img/Transformer-architecture.png)
+![alt text](img/Embedding-models.png)
+![alt text](img/decoder-llms.png)
+
+L3: Token vs. Sentence Embeddings
+---
+
+![alt text](img/Tokenization.png)
+![alt text](img/Token-Embedding.png)
+![alt text](img/Sentence-Embedding.png)
+![alt text](img/Sentence-Embedding-models.png)
+
+L4: Training a Dual Encoder
+---
+
+![alt text](img/Dual-Encoder.png)
+![alt text](img/Dual-Encoder-Architecture.png)
+![alt text](img/Contrastive-Loss.png)
+![alt text](img/Contrastive-Loss-pytorch.png)
+
+L5: Inference
+---
+
+![alt text](img/Ingest-flow.png)
+![alt text](img/quert-flow.png)
+![alt text](img/Similarity-Search.png)
+![alt text](img/RAG-flow.png)
+
+[Back to directory](Training_Course.md)

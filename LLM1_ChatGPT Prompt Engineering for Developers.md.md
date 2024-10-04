@@ -167,3 +167,5 @@ Capabilities
 - Inferring
 - Transforming
 - Expanding
+
+[Back to directory](Training_Course.md)
